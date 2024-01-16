@@ -13,6 +13,9 @@ En este proyecto se realizó una segmentacioń de clientes a través de RFM (Rec
 ## Objetivo
 
 ## Metodología
+### Limpieza de la base de datos
+### Análisis exploratorio
+### Aplicar técnica de análisis 
 
 ## Resultados
 
