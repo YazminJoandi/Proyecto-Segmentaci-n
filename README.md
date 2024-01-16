@@ -16,6 +16,8 @@ En este proyecto se realizó una segmentacioń de clientes a través de RFM (Rec
 
 ## Resultados
 
+![](https://github.com/YazminJoandi/proyecto-segmentacion-rfm/blob/main/bubble-graphic.png)
+
 ## Conclusiones y recomendaciones
 
 
