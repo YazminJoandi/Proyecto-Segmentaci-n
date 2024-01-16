@@ -23,6 +23,9 @@ La estrategia elegida por la tienda es analizar sus ventas y segmentar su base d
 #### Datos
 Este proyecto cuenta con datos de clientes, transacciones y el resumen de compras hechas por los clientes en el periodo de 2020-07-30 hasta 2022-06-29 en formato csv, posteriormente se importaron los datos a Google Sheets. 
 
+#### Herramientas
+Google Sheets
+
   #### Limpieza del dataset > Análisis exploratorio > Aplicar técnica de análisis 
 
 ## Resultados
