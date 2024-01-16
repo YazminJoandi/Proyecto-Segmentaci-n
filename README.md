@@ -27,7 +27,7 @@ Este proyecto cuenta con datos de clientes, transacciones y el resumen de compra
 
 ## Resultados
 
-![](https://github.com/YazminJoandi/proyecto-segmentacion-rfm/blob/main/bubble-graphic.png)
+![La gráfica muestra en el eje y la frencuencia y en el eje x la recencia](https://github.com/YazminJoandi/proyecto-segmentacion-rfm/blob/main/bubble-graphic.png)
 
 ## Conclusiones y recomendaciones
 De un total de 2230 clientes, se hizo una segmentación de 12 categorías diferentes.
