@@ -28,6 +28,7 @@ Este proyecto cuenta con datos de clientes, transacciones y el resumen de compra
 ## Resultados
 
 ![La gráfica muestra en el eje y la frencuencia y en el eje x la recencia](https://github.com/YazminJoandi/proyecto-segmentacion-rfm/blob/main/bubble-graphic.png)
+
 Esta gráfica muestra la distribución de los 12 grupos obtenidos en la segmentación. El eje y muestra la frecuencia y el eje x muestra la recencia. Se pueden apreciar 3 subgrupos: El primero que incluye a los "clientes VIP", "mejores clientes" y "clientes leales", el segundo grupo incluye a "necesitan atención", "leales potenciales", "nuevos clientes" y "prometedores"; por último el tercer grupo que incluye "no se pueden perder", "en riesgo", "hibernando", "a punto de dormir" y a los "perdidos".
 ## Conclusiones y recomendaciones
 De un total de 2230 clientes, se hizo una segmentación de 12 categorías diferentes.
