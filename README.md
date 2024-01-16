@@ -23,7 +23,7 @@ Buscar información importante que se encuentra oculta en los datos
 #### Datos
 Este proyecto cuenta con datos de clientes, transacciones y el resumen de compras hechas por los clientes en el periodo de 2020-07-30 hasta 2022-06-29 en formato csv, posteriormente se importaron los datos a Google Sheets. 
 
-  #### Limpieza de la base de datos > Análisis exploratorio > Aplicar técnica de análisis 
+  #### Limpieza del dataset > Análisis exploratorio > Aplicar técnica de análisis 
 
 ## Resultados
 
@@ -31,8 +31,7 @@ Este proyecto cuenta con datos de clientes, transacciones y el resumen de compra
 
 ## Conclusiones y recomendaciones
 De un total de 2230 clientes, se hizo una segmentación de 12 categorías diferentes.
-En los datos genenerales la mayoría de los clientes son casados o en unión libre.
-Ttienen una escolaridad de grado,superior o posgrado, el grado está relacionado con el promedio de ingreso anual por dolar.
+En los datos genenerales la mayoría de los clientes son casados o en unión libre, tienen una escolaridad de grado,superior o posgrado, el grado está relacionado con el promedio de ingreso anual por dolar.
 La mayor parte de las transacciones son en tienda y con una cifra de 3820 menos, están las transacciones en línea.
 El rango de personas que más frecuentan esta empresa, está entre 47-57 años. 
 El 50% de estos clientes tiene solo un hijo.
