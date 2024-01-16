@@ -23,7 +23,7 @@ Buscar información importante que se encuentra oculta en los datos
 #### Datos
 Este proyecto cuenta con datos de clientes, transacciones y el resumen de compras hechas por los clientes en el periodo de 2020-07-30 hasta 2022-06-29 en formato csv, posteriormente se importaron los datos a Google Sheets. 
 
-#### Limpieza de la base de datos > Análisis exploratorio > Aplicar técnica de análisis 
+  #### Limpieza de la base de datos > Análisis exploratorio > Aplicar técnica de análisis 
 
 ## Resultados
 
