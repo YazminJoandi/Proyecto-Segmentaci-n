@@ -20,5 +20,7 @@ En este proyecto se realizó una segmentacioń de clientes a través de RFM (Rec
 
 ## Conclusiones y recomendaciones
 
+Para más detalles da [click aquí](https://docs.google.com/spreadsheets/d/1_jGJJdP-DCuBd6Tr3rF_IbDL0cMEeSaGe77p9kjJgBk/edit?usp=sharing)
+
 
 
