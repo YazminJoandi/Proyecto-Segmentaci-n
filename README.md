@@ -35,15 +35,15 @@ Google Sheets
 Esta gráfica muestra la distribución de los 12 grupos obtenidos en la segmentación. El eje y muestra la frecuencia y el eje x muestra la recencia. Se pueden apreciar 3 subgrupos: El primero que incluye a los "clientes VIP", "mejores clientes" y "clientes leales", el segundo grupo incluye a "necesitan atención", "leales potenciales", "nuevos clientes" y "prometedores"; por último el tercer grupo que incluye "no se pueden perder", "en riesgo", "hibernando", "a punto de dormir" y a los "perdidos".
 
 ## Conclusiones y recomendaciones
-De un total de 2230 clientes, se hizo una segmentación de 12 categorías diferentes.
-En los datos genenerales la mayoría de los clientes son casados o en unión libre, tienen una escolaridad de grado,superior o posgrado, el grado está relacionado con el promedio de ingreso anual por dolar.
-La mayor parte de las transacciones son en tienda y con una cifra de 3820 menos, están las transacciones en línea.
-El rango de personas que más frecuentan esta empresa, está entre 47-57 años. 
-El 50% de estos clientes tiene solo un hijo.
-La categoría con un mayor número de personas es "Mejores clientes" con un total de 442 personas. 
-El grupo de productos que más vende esta empresa, es el vino; ya que en todas las categorías este fue el grupo con el mayor promedio de ventas. Por otro lado, los productos que menos venden son frutas.
-En efecto, el grupo de clientes leales son los que tienen más años de antiguedad. 
-Conforme al presente análisis, la empresa El Mercado deberá buscar estrategias para cada grupo para retener y recuperar a clientes de grupos vulnerables, ya que son una cantidad considerable de personas.
+* De un total de 2230 clientes, se hizo una segmentación de 12 categorías diferentes.
+* En los datos genenerales la mayoría de los clientes son casados o en unión libre, tienen una escolaridad de grado,superior o posgrado, el grado está relacionado con el promedio de ingreso anual por dolar.
+* La mayor parte de las transacciones son en tienda y con una cifra de 3820 menos, están las transacciones en línea.
+* El rango de personas que más frecuentan esta empresa, está entre 47-57 años. 
+* El 50% de estos clientes tiene solo un hijo.
+* La categoría con un mayor número de personas es "Mejores clientes" con un total de 442 personas. 
+* El grupo de productos que más vende esta empresa, es el vino; ya que en todas las categorías este fue el grupo con el mayor promedio de ventas. Por otro lado, los productos que menos venden son frutas.
+* En efecto, el grupo de clientes leales son los que tienen más años de antiguedad. 
+* Conforme al presente análisis, la empresa El Mercado deberá buscar estrategias para cada grupo para retener y recuperar a clientes de grupos vulnerables, ya que son una cantidad considerable de personas.
 
 Para más detalles da [click aquí](https://docs.google.com/spreadsheets/d/1_jGJJdP-DCuBd6Tr3rF_IbDL0cMEeSaGe77p9kjJgBk/edit?usp=sharing)
 
