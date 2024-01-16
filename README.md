@@ -8,4 +8,15 @@ En este proyecto se realizó una segmentacioń de clientes a través de RFM (Rec
 4. [Resultados]()
 5. [Conclusionesy recomendaciones]()
 
+## Introducción
+
+## Objetivo
+
+## Metodología
+
+## Resultados
+
+## Conclusiones y recomendaciones
+
+
 
